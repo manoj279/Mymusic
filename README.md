@@ -1,4 +1,4 @@
-Mymusic bulit using Django is a web application to store albums and music ,implemented using Django framework,Bootstrap,Javascript and CSS
+Mymusic is a Django web application to store albums and music ,implemented using Django framework,Bootstrap,Javascript and CSS
 
 username:admin password:pass1234
 
